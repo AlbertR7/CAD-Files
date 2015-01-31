@@ -1,0 +1,2 @@
+When you open Git bash, you are in /c/Users/ENRIQUE.
+
