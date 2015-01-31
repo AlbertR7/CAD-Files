@@ -1,2 +1,14 @@
 When you open Git bash, you are in /c/Users/ENRIQUE.
 
+type: cd CAD-Files
+This changes directory to the CAD-Files directory.
+
+type: git status
+This shows you new files in your repository
+
+type: git add .
+This adds all the changes and files that were shown in git status.
+
+type: git commit (-m "Commit message here")
+This commits the changes so that you can later view those and you can share them through github.
+
